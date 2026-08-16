@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hi, I'm Sandra
 
-<!--
-**Sandrasa15/Sandrasa15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Student at ENSIA | Software & Web Development
 
-Here are some ideas to get you started:
+I'm an **Artificial Intelligence student at the National Higher School of Artificial Intelligence (ENSIA)** with an interest in software engineering, web development, algorithms, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning through practical projects and applying theoretical concepts to real-world problems. My current focus is on modern web development while continuing to strengthen my programming, algorithms, and computer science foundations.
+
+---
+
+## About Me
+
+* Artificial Intelligence student at **ENSIA**
+* Interested in **Software Engineering, Web Development, and Artificial Intelligence**
+* Currently learning **TypeScript and Next.js**
+* strong foundation in **Python and C++**
+* Knowledge of **Java **
+* Knowledge of **Object-Oriented Programming**
+* Familiar with **Linux and command-line tools**
+* Interested in **algorithms, problem solving, and AI**
+
+---
+
+## Tech Stack
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+</p>
+
+**HTML · CSS · JavaScript · TypeScript · React  · Tailwind CSS**
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+</p>
+
+**Python · Java · C++**
+
+### Computer Science
+
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Problem Solving
+* Software Development Fundamentals
+* Linux / Command Line
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+</p>
+
+**Git · GitHub · VS Code · Vercel · Linux**
+
+---
+
+## Academic Experience
+
+As part of my studies at ENSIA, I have worked on projects involving software development, algorithms, and artificial intelligence.
+
+My academic work has included:
+
+* Search algorithms
+* Optimization algorithms
+* Data Structures & Algorithms
+* Game theory
+* Multi-Agent Systems
+* Pathfinding and state-space search
+* Algorithmic problem solving
+
+One of my main AI projects involved **Multi-Agent Path Finding (MAPF)** for coordinating warehouse robots while avoiding collisions and deadlocks. The project explored approaches including **A***, **Cooperative A***, **Independent A***, **Hill Climbing**, and **Conflict-Based Search (CBS)**, with objectives including minimizing makespan and flowtime.
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Contact
+
+Feel free to explore my repositories and connect with me.
