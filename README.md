@@ -73,17 +73,6 @@ My academic work has included:
 
 One of my main AI projects involved **Multi-Agent Path Finding (MAPF)** for coordinating warehouse robots while avoiding collisions and deadlocks. The project explored approaches including **A***, **Cooperative A***, **Independent A***, **Hill Climbing**, and **Conflict-Based Search (CBS)**, with objectives including minimizing makespan and flowtime.
 
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
