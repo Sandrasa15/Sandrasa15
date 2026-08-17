@@ -28,7 +28,7 @@ I enjoy learning through practical projects and applying theoretical concepts to
 ### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php" />
 </p>
 
 **HTML · CSS · JavaScript  · React · Tailwind CSS · PHP**
