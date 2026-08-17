@@ -31,7 +31,7 @@ I enjoy learning through practical projects and applying theoretical concepts to
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php" />
 </p>
 
-**HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS · PHP**
+**HTML · CSS · JavaScript  · React · Tailwind CSS · PHP**
 
 ### Programming Languages
 
