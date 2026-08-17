@@ -14,8 +14,10 @@ I enjoy learning through practical projects and applying theoretical concepts to
 * Interested in **Software Engineering, Web Development, and Artificial Intelligence**
 * Currently learning **TypeScript and Next.js**
 * strong foundation in **Python and C++**
-* Knowledge of **Java **
+* Knowledge of **Java**
+* Knowledge of **PHP**
 * Knowledge of **Object-Oriented Programming**
+* Knowledge of **Databases and MySQL**
 * Familiar with **Linux and command-line tools**
 * Interested in **algorithms, problem solving, and AI**
 
@@ -26,10 +28,10 @@ I enjoy learning through practical projects and applying theoretical concepts to
 ### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php" />
 </p>
 
-**HTML · CSS · JavaScript · TypeScript · React  · Tailwind CSS**
+**HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS · PHP**
 
 ### Programming Languages
 
@@ -45,6 +47,7 @@ I enjoy learning through practical projects and applying theoretical concepts to
 * Data Structures & Algorithms
 * Problem Solving
 * Software Development Fundamentals
+* Databases & SQL
 * Linux / Command Line
 
 ### Tools
@@ -70,9 +73,10 @@ My academic work has included:
 * Multi-Agent Systems
 * Pathfinding and state-space search
 * Algorithmic problem solving
+* Database systems and SQL
+* MySQL database management
 
 One of my main AI projects involved **Multi-Agent Path Finding (MAPF)** for coordinating warehouse robots while avoiding collisions and deadlocks. The project explored approaches including **A***, **Cooperative A***, **Independent A***, **Hill Climbing**, and **Conflict-Based Search (CBS)**, with objectives including minimizing makespan and flowtime.
-
 
 ---
 
