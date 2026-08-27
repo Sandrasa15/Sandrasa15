@@ -83,3 +83,10 @@ One of my main AI projects involved **Multi-Agent Path Finding (MAPF)** for coor
 ## Contact
 
 Feel free to explore my repositories and connect with me.
+
+## 🌐 My Portfolio
+
+Check out my personal portfolio to learn more about me, my skills, and the projects I've worked on.
+
+**→ [Visit my Portfolio](https://my-personal-portfolio-me-b1b0.vercel.app/)**
+
